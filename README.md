@@ -3,6 +3,11 @@
 My name is **Shi Boao**. My English name is Bowie. I am currently a research assistant at Penn GRASP Lab. I am also a final year undergraduate majoring in **Computer Science** from The University of Hong Kong.
 
 My research interests lie in **general 3D and 4D**.
+Several directions/topics I am interested in:
+
+- Character animation
+- 3D/4D Reconstruction
+- Learning from human video
 
 I am quite interested in the following questions:
 
