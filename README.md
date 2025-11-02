@@ -11,6 +11,6 @@ Several directions/topics I am interested in:
 
 I am quite interested in the following questions:
 
-- How can we infer the physical state and dynamics of the world from causal monocular observation (single RGB camera)?
-- How can we encode motion, deformation, and interaction such that they obey physical plausibility and generalize?
-- How can we extract generalizable priors of how humans interact with the world, and how to apply it to humanoid control policy?
+- How can we infer the physical state and dynamics of the world from causal monocular observation (general web video setting)?
+- How can we encode motion, deformation, and interaction such that they obey physical law and generalize?
+- How can we extract scalable and generalizable priors of how humans interact with the world, and how to apply it to humanoid control policy?
