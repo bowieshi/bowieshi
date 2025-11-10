@@ -8,6 +8,7 @@ Several directions/topics I am interested in:
 - Character animation
 - 3D/4D Reconstruction
 - Learning from human video
+- Humanoid control policy
 
 I am quite interested in the following questions:
 
