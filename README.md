@@ -6,12 +6,12 @@ My research interests lie in **general 3D and 4D**.
 Several directions/topics I am interested in:
 
 - Character animation
-- 3D/4D Reconstruction
-- Learning from human video
-- Humanoid control policy
+- Feedforward 3D/4D reconstruction
+- Video world model
+- Application in robotics
 
 I am quite interested in the following questions:
 
-- How can we infer the physical state and dynamics of the world from causal monocular observation (general web video setting)?
+- How can we learn dynamics and interaction of the real world from streaming monocular observation (captured by any devices)?
 - How can we encode motion, deformation, and interaction such that they obey physical law and generalize?
-- How can we extract scalable and generalizable priors of how humans interact with the world, and how to apply it to humanoid control policy?
+- How can we extract scalable and generalizable priors of world dynamics and interaction causality between human and object, object and object, and how to exploit it as a foundation for downstream robotics tasks?
