@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+> **"I don't care about SOTA. I care about whether it survives the real world."**
+
 My name is **Shi Boao**. My English name is Bowie. I am currently a research assistant at Penn GRASP Lab. I am also a final year undergraduate majoring in **Computer Science** from The University of Hong Kong.
+
+I am contributing to VLLM-OMNI now. I grow quite interested about building high-performance, production-ready machine learning systems.
+
 
 My research interests lie in **General 3D/4D**, **Physical intelligence** and **Robotics**. I want to develop scalable perceptual and physical world modelling systems that can learn directly from large scale unconstrained video, arguably the most abundant and accessible form of real-world data. With this in hand, how can we enable robotics agent decision making training by simulation in scale.
 
