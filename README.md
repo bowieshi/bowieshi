@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> **"I don't care about SOTA. I care about whether it survives the real world."**
+> **""I am quite interested about researching on rand developing high-impact, high-performance and robust machine learning system which survives the real world.""**
 
 My name is **Shi Boao**. My English name is Bowie. I am currently a research assistant at Penn GRASP Lab. I am also a final year undergraduate majoring in **Computer Science** from The University of Hong Kong.
 
