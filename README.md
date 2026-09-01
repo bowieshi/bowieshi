@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-> **""I am quite interested about R&D high-performance, impactful and robust machine learning system which survives the real world.""**
-
 My name is **Shi Boao**. My English name is Bowie. I am currently a research assistant at Penn GRASP Lab. I am also a final year undergraduate majoring in **Computer Science** from The University of Hong Kong.
 
-I am contributing to **vllm-omni** project now. I am also starting working on agentic serving systems.
+I am contributing to **vllm-omni** project now. I am also starting working on world model/agentic serving systems.
 
 
 My research interests lie in **General 3D/4D**, **Physical intelligence** and **Robotics**. I want to develop scalable perceptual and physical world modelling systems that can learn directly from large scale unconstrained video, arguably the most abundant and accessible form of real-world data. With this in hand, how can we enable robotics agent decision making training by simulation in scale.
